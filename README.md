@@ -9,7 +9,7 @@ Python으로 진행하는 것으로 결정
 4번의 소단원이 실질적인 Study 단위
 
 # 4. 스터디 진행 
-### a. [대상 사이트를 분석]
+### a. 대상 사이트를 분석
 아래의 사이트를 분석하고 원하는 데이터가 있는 곳을 찾는 방법을 본다.
 #### dcinside
 http://gall.dcinside.com/board/lists?id=game1]
